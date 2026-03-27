@@ -8,28 +8,27 @@ This repository contains study materials for the **Claude Certified Architect â€
 
 ![alt text](image-1.png)
 
-## Course access
+## Course Access
 
-To request access to the official course/exam portal, use this link:
+- Certification is currently restricted to members of the Anthropic Partner Network and requires registration with a verified partner company email. Claude Partner Network: https://claude.com/partners
+- Free for the first 5,000 partner company employees. General availability will be $99.
+- To request access to the official course/exam portal, use this link: https://anthropic.skilljar.com/claude-certified-architect-foundations-access-request
 
-- https://anthropic.skilljar.com/claude-certified-architect-foundations-access-request
-
-## Study guides
+## Study Guide
 
 - **English guide**: [`guide_en.md`](./guide_en.MD)
-- **Japanese guide**: [`guide_ja.md`](./guide_ja.md)
 - **Russian guide**: [`guide_ru.md`](./guide_ru.MD)
 - **Chinese guide**: [`guide_zh.md`](./guide_zh.md)
+- **Japanese guide**: [`guide_ja.md`](./guide_ja.md)
 
-
-## PDF
+## PDF Version
 
 - **English guide**: [`guide_en.pdf`](./pdf/guide_en.pdf)
-- **Japanese guide**: [`guide_ja.pdf`](./pdf/guide_ja.pdf)
 - **Russian guide**: [`guide_ru.pdf`](./pdf/guide_ru.pdf)
 - **Chinese guide**: [`guide_zh.pdf`](./pdf/guide_zh.pdf)
+- **Japanese guide**: [`guide_ja.pdf`](./pdf/guide_ja.pdf)
 
-## How to use
+## How to Use?
 
 - Read the guide that matches your preferred language.
 - Work through the scenarios and questions.

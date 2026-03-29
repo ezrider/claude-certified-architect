@@ -41,8 +41,8 @@ This repository contains study materials for the **Claude Certified Architect �
 1. **[Claude 101](https://anthropic.skilljar.com/claude-101)** — Learn Claude for everyday work. Core features and best practices.
 2. **[AI Fluency: Framework & Foundations](https://anthropic.skilljar.com/ai-fluency-framework-foundations)** — The foundational thinking course.
 3. **[Introduction to Agent Skills](https://anthropic.skilljar.com/introduction-to-agent-skills)** — Build, configure, and share Skills in Claude Code.
-4. **[Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api/287732)** — Function calling, tool use, streaming, SDKs, and production patterns.
-5. **[Claude Code in Action](https://anthropic.skilljar.com/claude-code-in)** — Integrate Claude Code into your dev workflow.
+4. **[Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api)** — Function calling, tool use, streaming, SDKs, and production patterns.
+5. **[Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action)** — Integrate Claude Code into your dev workflow.
 6. **[Intro to Model Context Protocol](https://anthropic.skilljar.com/introduction-to-model-context-protocol)** — Build MCP servers and clients from scratch in Python.
 7. **[MCP: Advanced Topics](https://anthropic.skilljar.com/model-context-protocol-advanced-topics)** — Sampling, notifications, file system access, and transport for production MCP servers.
 8. **[AI Fluency for Students](https://anthropic.skilljar.com/ai-fluency-for-students)** — AI skills for learning, career planning, and academic success.

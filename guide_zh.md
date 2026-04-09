@@ -2658,12 +2658,12 @@ def trim_order_fields(result):
 
 **你的建议是什么？**
 
-- A) 在 `~/.claude/skills/` 下以不同名称创建个人版本，例如 `/my-commit`。**[正确]**
+- A) 在 `~/.claude/skills/` 下以不同名称创建个人版本，例如 `/my-commit`。
 - B) 在项目技能前置内容中基于用户名添加条件逻辑。
-- C) 在 `~/.claude/skills/commit/SKILL.md` 中创建同名的个人版本。
+- C) 在 `~/.claude/skills/commit/SKILL.md` 中创建同名的个人版本。**[正确]**
 - D) 在个人技能前置内容中设置 `override: true` 以优先于项目版本。
 
-**为什么选A：** 项目技能优先于同名的个人技能。为了在团队技能旁边保留个性化变体，开发者应该在他们的个人 `~/.claude/skills/` 目录中创建一个不同名称的技能（例如 `/my-commit`）。
+**为什么选C：** 个人技能优先于同名的项目技能。位于 `~/.claude/skills/commit/SKILL.md` 的个人技能将覆盖团队的项目技能，允许开发者定制他们的工作流，同时保持熟悉的 `/commit` 命令名称供个人使用。这种方法比选项A更好，因为它保留了原始命令名称，改进了开发者的工作流，而不影响队友。
 
 ---
 
